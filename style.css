@@ -2,26 +2,30 @@
 <!DOCTYPE html>
 <html>
 
+
+
 <head>
+
 <link rel="stylesheet" href="style.css">
 </head>
 
 body { 
-padding: 30px;
+padding: 10px;
 background-color: antiquewhite;
 }
 
 blockquote {
-font-size: 16em;
+font-size: 5em;
 font-family: times, serif;
 color: purple; 
 }
 
 
 div {
-font-size: 12em;
+font-size: 8em;
 font-family: geneva, sans-serif;
 margin-left: 5%;
 }
+
 
 </html>
