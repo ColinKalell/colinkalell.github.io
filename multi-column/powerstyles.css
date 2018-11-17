@@ -1,0 +1,23 @@
+
+
+header {
+width:90%;
+text-align:center;
+}
+
+article {
+width:40%;
+float:left;
+padding:2%;
+}
+
+article > p {
+background-color:white;
+padding: 2%;
+}
+
+footer{
+clear:both;
+}
+
+
